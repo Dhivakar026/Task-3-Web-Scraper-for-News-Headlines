@@ -2,16 +2,6 @@
 
 This Python script fetches the latest headlines from the [BBC News](https://www.bbc.com/news) website and saves them into a text file (`headlines.txt`). It uses `requests` and `BeautifulSoup` to scrape the content.
 
----
-
-## 📁 Project Structure
-
-```
-news_scraper/
-├── news_scraper.py     # Main Python script to scrape headlines
-├── headlines.txt       # Output file containing the scraped headlines
-├── README.md           # Project documentation
-```
 
 ---
 
@@ -61,11 +51,8 @@ python news_scraper.py
 
 ---
 
-## ✅ License
 
-This project is for educational purposes only. Be respectful of website terms of service when scraping.
 
----
 
 ## 👨‍💻 Author
 
